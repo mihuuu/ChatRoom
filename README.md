@@ -3,9 +3,11 @@
 ### 项目简介
 
 * 使用 Java 开发的聊天应用，通过 Socket 实现网络通信
-* 使用 Swing 设计 GUI
+* 使用 Swing 设计 GUI 
 * 通过 JDBC 连接 MySQL 数据库
 * 创建线程池支持多个用户线程
+
+![chat](https://i.loli.net/2019/03/30/5c9f333bb9e8a.png)
 
 ### 项目结构
 

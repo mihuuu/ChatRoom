@@ -201,12 +201,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="235" />
     <option name="y" value="51" />
     <option name="width" value="1860" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -401,16 +402,15 @@
       <workItem from="1548053999053" duration="45280000" />
       <workItem from="1548246067918" duration="41573000" />
       <workItem from="1552744425498" duration="4634000" />
-      <workItem from="1552805746436" duration="255000" />
+      <workItem from="1552805746436" duration="670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91742000" />
+    <option name="totallyTimeSpent" value="92157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-7" width="1488" height="878" extended-state="7" />
-    <editor active="true" />
+    <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.19370629" />
       <window_info id="Structure" order="1" sideWeight="0.50167227" side_tool="true" weight="0.18531469" />
